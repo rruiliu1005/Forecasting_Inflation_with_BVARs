@@ -1,6 +1,6 @@
 ---
-title: "Title of your work"
-author: "Your Name"
+title: "Forecasting Inflation with Bayesian VARs"
+author: "Rui Liu"
 
 execute:
   echo: false
